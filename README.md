@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Created Active Directory HomeLab](https://github.com/day-zen)
+- [Created ActiveDirectory Home Lab](https://github.com/day-zen)
   
 
 
