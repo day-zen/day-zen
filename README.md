@@ -9,7 +9,7 @@
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/b34bbcc5-5970-4498-8a81-23af3f00a6e1/public_url)
-- [Google Cybersecurity](https://coursera.org/share/ff0cb5e2f47140b6cdbf85c8444cd53f)
+- [Google Cybersecurity Certificate](https://coursera.org/share/ff0cb5e2f47140b6cdbf85c8444cd53f)
 
 
 <h2> 🤳 Connect with me:</h2>
