@@ -2,7 +2,7 @@
 
 <h2>:closed_lock_with_key: Cybersecurity Projects</h2>
 
-- [ActiveDirectory Home Lab]([https://github.com/day-zen](https://github.com/day-zen/AD-DC))
+- [Active Directory-Domain Server](https://github.com/day-zen/AD-DC)
 - [Algorithm for file updates in Python](https://github.com/day-zen/Google-Cybersecurity-Certificate-Labs/blob/fdf01d37fe7ec18b5d7eda57a8ad7a6bbf9e45a8/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 - [Apply filters to SQL queries](https://github.com/day-zen/Google-Cybersecurity-Certificate-Labs/blob/fdf01d37fe7ec18b5d7eda57a8ad7a6bbf9e45a8/Apply%20filters%20to%20SQL%20queries.pdf)
 - [File permissions in Linux](https://github.com/day-zen/Google-Cybersecurity-Certificate-Labs/blob/fdf01d37fe7ec18b5d7eda57a8ad7a6bbf9e45a8/File%20permissions%20in%20Linux.pdf)
